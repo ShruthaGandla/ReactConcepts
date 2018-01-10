@@ -1,6 +1,10 @@
 import React from "react";
 
+
 //testing the merge conflict
+
+// added second comment from master branch
+
 import PropTypes from 'prop-types';
 //this file is to show how the age attribute when incremented is not rendered with the new value.that is why we use this.state property.
 export class Home extends React.Component{
