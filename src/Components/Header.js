@@ -1,5 +1,6 @@
 // this is an example of a stateless component
 import React from "react";
+//checking if a channge in diff file in master causes merge conflict
 
 export class Header extends React.Component {
     render() {
