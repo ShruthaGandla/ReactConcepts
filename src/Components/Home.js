@@ -5,7 +5,11 @@ import React from "react";
 
 // added second comment from master branch
 
+
 //added another from secondtest branch
+
+
+// added thrid comment
 
 import PropTypes from 'prop-types';
 //this file is to show how the age attribute when incremented is not rendered with the new value.that is why we use this.state property.
